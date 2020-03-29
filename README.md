@@ -16,11 +16,11 @@ fsevent 1.2.9
 yarn v1.13.0
 
 # 根目录主要分两个目录
-server ( 目录下为 Graphql Server )
-    - src ( server )
-    - database ( 为 prisma 相关 )
-src ( 为 react 项目 )
-    - index.js
+server ( 目录下为 Graphql Server ) <br/>
+    - src ( server )<br/>
+    - database ( 为 prisma 相关 )<br/>
+src ( 为 react 项目 )<br/>
+    - index.js<br/>
 
 # 执行记录
 run.sh 里面有记截。
