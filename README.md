@@ -26,8 +26,9 @@ src ( 为 react 项目 )
 run.sh 里面有记截。
 
 # 截图 screenshots
-<img src="" />
-<img src="" />
-<img src="" />
+<img src="https://github.com/elaoshi/a-starter-for-react-apollo-prisma/blob/master/prisma-deploy1.png?raw=true" />
+<img src="https://github.com/elaoshi/a-starter-for-react-apollo-prisma/blob/master/prisma-deploy2.png?raw=true" />
+<img src="https://github.com/elaoshi/a-starter-for-react-apollo-prisma/blob/master/graphql-prisma.png?raw=true" />
+<img src="https://github.com/elaoshi/a-starter-for-react-apollo-prisma/blob/master/yarn-started.png?raw=true" />
 
 
